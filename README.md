@@ -20,7 +20,16 @@ A robust web scraping solution built with ASP.NET Core that extracts book data f
 4. **Stock Availability** - In stock / Out of stock
 5. **Product Link** - Detail page URL
 6. **Image URL** - Book cover image URL
-
+## 🏗️ Project Architecture
+book-scraper-aspnet/
+├── 📁 Controllers/
+├── 📁 Models/ 
+├── 📁 Services/
+├── 📄 Program.cs
+├── 📄 appsettings.json
+├── 📄 BookScraperProject.csproj
+├── 📄 README.md
+└── 📄 BooksData.json (after first run)
 ## Website URL Used
 https://books.toscrape.com/
 
