@@ -30,7 +30,7 @@ book-scraper-aspnet/
 ├── 📄 BookScraperProject.csproj
 ├── 📄 README.md
 └── 📄 BooksData.json (after first run)
-## Website URL Used
+## Document Website URL Used
 https://books.toscrape.com/
 
 ## Total Records Collected
@@ -110,5 +110,5 @@ Uses proper User-Agent headers
 Includes delays between requests
 
 👨‍💻 Developer
-Md Mojahidul Islam 
+Md Mojahidul Islam
 mdmojahidul5577@gmail.com
